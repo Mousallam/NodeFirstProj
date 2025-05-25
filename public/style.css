@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #23272f; color: #fff; }
+ul { list-style: none; padding: 0; }
+li { padding: 5px 10px; }
+form { position: fixed; bottom: 0; width: 100%; display: flex; background: #111; }
+input { flex: 1; padding: 10px; border: none; }
+button { padding: 10px; border: none; background: #1e90ff; color: #fff; }
